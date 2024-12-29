@@ -55,7 +55,7 @@ Here are a few of my exciting projects:
 ---
 
 ## 📈 Most Used Languages (Data Science & Java!)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Pratyusha108&layout=compact&theme=radical)  
 **Python** and **R** dominate my workflow, but **Java** still plays a role in the back-end systems I've worked on.
 
 ---
