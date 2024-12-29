@@ -1,6 +1,4 @@
-## Hi there 👋
-
-# Hi there, I'm [Your Name] 👋  
+# Hi there, I'm Pratyusha 👋  
 **Aspiring Data Scientist | Master's in Data Analytics | Full Stack Java Enthusiast**
 
 Welcome to my GitHub! 🌱 I'm on a journey to becoming a data scientist, diving deep into **statistical analysis**, **machine learning**, and **data visualization**. I also bring in experience from my **Full Stack Java course** and always love applying that knowledge to real-world problems.
