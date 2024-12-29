@@ -32,7 +32,7 @@ Welcome to my GitHub! 🌱 I'm on a journey to becoming a data scientist, diving
 ---
 
 ## 📊 My GitHub Activity  
-![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&count_private=true&show_icons=true&hide_title=true&theme=radical)  
+![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pratyusha108&count_private=true&show_icons=true&hide_title=true&theme=radical)  
 I keep contributing to open-source data science projects, exploring **real-world datasets**, and building predictive models.
 
 ---
