@@ -1,91 +1,96 @@
-# Hi there, I'm Pratyusha 👋  
-**Aspiring Data Scientist | Master's in Data Analytics | Full Stack Java Enthusiast**
+<h1 align="center">Hey there! 👋 I'm Sai Pratyusha Gorapalli</h1>
 
-Welcome to my GitHub! 🌱 I'm on a journey to becoming a data scientist, diving deep into **statistical analysis**, **machine learning**, and **data visualization**. I also bring in experience from my **Full Stack Java course** and always love applying that knowledge to real-world problems.
-
----
-
-## 🚀 My Data Science Journey
-- **Master’s in Data Analytics**: Currently honing skills in statistical modeling, machine learning algorithms, data wrangling, and more.
-- **Full Stack Java (6 months)**: Gained a strong foundation in back-end technologies, though my heart lies in **data science**!
-- **Passionate about Statistics**: Fascinated by the power of numbers to tell stories, find patterns, and make data-driven decisions.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF4F8B&center=true&vCenter=true&width=435&lines=Data+Analyst+%7C+Data+Scientist+in+progress+%F0%9F%93%88;Lover+of+data%2C+logic%2C+and+storytelling+%F0%9F%93%9A;Exploring+insights+to+inspire+real+change" alt="Typing SVG" />
+</p>
 
 ---
 
-## 🛠️ My Skills & Tools
-**Data Science & Machine Learning:**
-- Programming: **Python**, **R**
-- Libraries: **Pandas**, **NumPy**, **Scikit-learn**, **Matplotlib**, **Seaborn**, **TensorFlow**, **Keras**
-- Statistical Analysis: Hypothesis Testing, A/B Testing, Regression, Time Series Forecasting, Statistical Inference
+### 👩‍💻 About Me
 
-**Data Visualization:**
-- Tools: **Tableau**, **Power BI**, **Plotly**, **Matplotlib**, **Seaborn**
-- Advanced Visualizations: **Geospatial analysis**, **Heatmaps**, **Interactive Dashboards**
+> "Data is the power that lifts us to new heights, driven by curiosity and the will to explore."
 
-**Full Stack Development:**
-- Frontend: **HTML5**, **CSS3**, **JavaScript**, **React**
-- Backend: **Java**, **Node.js**, **Express.js**
-- Databases: **SQL**, **MongoDB**, **PostgreSQL**
+🎓 Master's in Data Analytics @ Webster University  
+💡 Passionate about converting raw data into actionable strategies  
+🛠️ From predictive modeling to real-time dashboards — I love it all!  
+🚀 Eager to solve complex problems, uncover patterns, and make an impact through storytelling with data  
 
 ---
 
-## 📊 My GitHub Activity  
-![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pratyusha108&count_private=true&show_icons=true&hide_title=true&theme=radical)  
-I keep contributing to open-source data science projects, exploring **real-world datasets**, and building predictive models.
+### 🧰 Tech Toolbox
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/-R-276DC3?style=flat&logo=r&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Power BI](https://img.shields.io/badge/-PowerBI-F2C811?style=flat&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=flat&logo=tableau&logoColor=white)
+![React Native](https://img.shields.io/badge/-React_Native-61DAFB?style=flat&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 
 ---
 
-## 🔥 My Data Science Projects
-Here are a few of my exciting projects:
+### 📌 Highlight Projects
 
-- **[Predictive Analytics for Sales Forecasting](https://github.com/your-username/project1)**  
-  Forecasted sales using **Time Series Analysis** and **ARIMA** models.
+#### 🔮 [DJIA Time Series Forecasting](https://github.com/Pratyusha108)  
+- Used R to forecast Dow Jones data for 3 months  
+- Identified seasonal patterns & white noise  
+- Achieved 80% forecasting accuracy
 
-- **[Customer Segmentation using K-Means Clustering](https://github.com/your-username/project2)**  
-  Applied **K-Means** for customer segmentation in an e-commerce dataset to improve marketing strategies.
-
-- **[Sentiment Analysis of Social Media Data](https://github.com/your-username/project3)**  
-  Built a sentiment analysis model using **Natural Language Processing (NLP)** and **Logistic Regression**.
-
-- **[Real-time Stock Price Prediction using LSTM](https://github.com/your-username/project4)**  
-  Implemented a **Long Short-Term Memory (LSTM)** model to predict stock prices.
+#### ⏱️ [Routine Productivity Tracker App](https://github.com/Pratyusha108)  
+- Built a full-stack tracker with React Native, Node.js, SQLite  
+- Power BI for insightful dashboards  
+- 85% accuracy in recognizing productivity patterns  
+- Real-time updates & system optimization for 30% faster load time
 
 ---
 
-## 📈 Most Used Languages (Data Science & Java!)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Pratyusha108&layout=compact&theme=radical)  
-**Python** and **R** dominate my workflow, but **Java** still plays a role in the back-end systems I've worked on.
+### 🌱 Currently Exploring
+- Time Series Forecasting  
+- Deep Learning & Neural Networks  
+- Data Ethics & Responsible AI  
+- Advanced EDA & Statistical Modeling
 
 ---
 
-## 🎓 Certifications & Learning Progress
-I am constantly improving my skills through learning. Here’s what I’ve been working on lately:
+### 🎯 My Vision
 
-- **[Python for Data Science](https://www.udemy.com/course/python-for-data-science/) - Udemy**  
-- **[Statistics for Data Science](https://www.coursera.org/courses/statistics-for-data-science) - Coursera**  
-- **[Full Stack Development with Java](https://www.udemy.com/course/full-stack-java-development/) - Udemy**  
-- **[Machine Learning Specialist](https://www.coursera.org/learn/machine-learning) - Coursera**  
+I don't just analyze data — I **question**, **explore**, and **illuminate** what data means in a real-world context.  
+My mission is to be part of a visionary team that values **insight, impact, and imagination.**  
+If you're looking for someone who’s endlessly curious, analytical, and driven by purpose — we might just be a great match!
 
 ---
 
-## 💻 My Tools of the Trade  
-- **IDE**: Jupyter, PyCharm, VS Code, IntelliJ (Java)  
-- **Version Control**: Git, GitHub  
-- **Cloud**: AWS, Google Cloud (for ML and data storage)  
-- **Database Management**: MySQL, PostgreSQL, MongoDB  
+### 🌐 Find Me Online
+
+📫 **Email**: saipratyushagorapalli333@gmail.com  
+📊 **Kaggle**: [Coming soon – I'm diving deep into challenges!]  
+🔗 **LinkedIn**: [https://www.linkedin.com/in/pratyusha-g-a92915229/](https://www.linkedin.com/in/pratyusha-g-a92915229/)  
+💻 **GitHub**: [https://github.com/Pratyusha108](https://github.com/Pratyusha108)
 
 ---
 
-## 📚 Stats Enthusiast
-I thrive on using **statistics** and **data modeling** to analyze trends, improve processes, and make impactful decisions. Whether it’s creating algorithms to predict future trends or deriving insights from messy data, I’m always looking for the story hidden within the numbers.
+### 📈 GitHub Stats (Because numbers matter too!)
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pratyusha108&theme=default" alt="GitHub Streak Stats"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Pratyusha108&show_icons=true&hide=issues&hide_title=true&count_private=true" alt="GitHub Stats"/>
+</p>
 
 ---
 
-## 💬 Let's Connect
-- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/your-profile)
-- **Twitter**: [@your-twitter](https://twitter.com/your-twitter)
-- **Personal Website/Portfolio**: [www.yourwebsite.com](https://www.yourwebsite.com)
+### 💬 Quote I Live By
+
+> “If you have never failed, you have never tried something new.”
 
 ---
 
-# "Data is the new oil, and I'm here to refine it." 🚀
+Would you like this in a downloadable `.md` file ready to upload to your GitHub profile?
+
+Also, share your Kaggle link when ready — I’ll help you plug it in smoothly.
+
+Want me to generate a matching **GitHub banner image** too?
