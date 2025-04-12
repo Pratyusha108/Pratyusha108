@@ -83,14 +83,9 @@ If you're looking for someone who’s endlessly curious, analytical, and driven 
 
 ---
 
-### 💬 Quote I Live By
+
 
 > “If you have never failed, you have never tried something new.”
 
 ---
 
-Would you like this in a downloadable `.md` file ready to upload to your GitHub profile?
-
-Also, share your Kaggle link when ready — I’ll help you plug it in smoothly.
-
-Want me to generate a matching **GitHub banner image** too?
