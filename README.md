@@ -1,7 +1,7 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:1a1b27,60:ff6b9d,100:c084fc&height=230&section=header&text=Sai%20Pratyusha%20Gorapalli&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Data%20Scientist%20%E2%97%86%20ML%20Engineer%20%E2%97%86%20Full-Stack%20Builder&descSize=17&descAlignY=55" />
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:2d1b69,30:6c3fa0,60:ff6b9d,100:c084fc&height=230&section=header&text=Sai%20Pratyusha%20Gorapalli&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Data%20Scientist%20%E2%97%86%20ML%20Engineer%20%E2%97%86%20Full-Stack%20Builder&descSize=17&descAlignY=55" />
-  <img alt="header" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:1a1b27,60:ff6b9d,100:c084fc&height=230&section=header&text=Sai%20Pratyusha%20Gorapalli&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Data%20Scientist%20%E2%97%86%20ML%20Engineer%20%E2%97%86%20Full-Stack%20Builder&descSize=17&descAlignY=55" width="100%" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:1a1b27,60:ff6b9d,100:c084fc&height=230&section=header&text=Sai%20Pratyusha%20Gorapalli&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=Data%20Scientist%20%E2%97%86%20ML%20Engineer%20%E2%97%86%20Full-Stack%20Builder&descSize=17&descAlignY=55" />
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:2d1b69,30:6c3fa0,60:ff6b9d,100:c084fc&height=230&section=header&text=Sai%20Pratyusha%20Gorapalli&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=Data%20Scientist%20%E2%97%86%20ML%20Engineer%20%E2%97%86%20Full-Stack%20Builder&descSize=17&descAlignY=55" />
+  <img alt="header" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:1a1b27,60:ff6b9d,100:c084fc&height=230&section=header&text=Sai%20Pratyusha%20Gorapalli&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=Data%20Scientist%20%E2%97%86%20ML%20Engineer%20%E2%97%86%20Full-Stack%20Builder&descSize=17&descAlignY=55" width="100%" />
 </picture>
 
 <p align="center">
@@ -39,7 +39,7 @@ class Pratyusha:
   <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=py,r,tensorflow,pytorch,azure,docker,react,nodejs,git,github,vscode,linux&perline=6&theme=dark" />
   <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=py,r,tensorflow,pytorch,azure,docker,react,nodejs,git,github,vscode,linux&perline=6&theme=light" />
-  <img alt="Tech Stack" src="https://skillicons.dev/icons?i=py,r,tensorflow,pytorch,azure,docker,react,nodejs,git,github,vscode,linux&perline=6&theme=dark" width="100%" />
+  <img alt="Tech Stack" src="https://skillicons.dev/icons?i=py,r,tensorflow,pytorch,azure,docker,react,nodejs,git,github,vscode,linux&perline=6&theme=dark" />
 </picture>
 </p>
 
@@ -130,28 +130,22 @@ Full-stack portfolio with AI chatbot, blog system, and real-time visitor analyti
 
 <h3 align="center">GitHub Analytics</h3>
 
-<p align="center">
-  <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Pratyusha108&show_icons=true&hide_border=true&count_private=true&bg_color=0d1117&icon_color=ff6b9d&title_color=c084fc&text_color=ffffff&ring_color=ff6b9d&cache_seconds=86400" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Pratyusha108&show_icons=true&hide_border=true&count_private=true&bg_color=ffffff&icon_color=ff6b9d&title_color=8b5cf6&text_color=333333&ring_color=ff6b9d&cache_seconds=86400" />
-  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Pratyusha108&show_icons=true&hide_border=true&count_private=true&bg_color=0d1117&icon_color=ff6b9d&title_color=c084fc&text_color=ffffff&ring_color=ff6b9d&cache_seconds=86400" width="49%" />
-</picture>
-  <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Pratyusha108&hide_border=true&background=0D1117&ring=ff6b9d&fire=ff6b9d&currStreakLabel=c084fc&sideLabels=ffffff&currStreakNum=ff6b9d&dates=888888&sideNums=ffffff" />
-  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=Pratyusha108&hide_border=true&background=ffffff&ring=ff6b9d&fire=ff6b9d&currStreakLabel=8b5cf6&sideLabels=333333&currStreakNum=ff6b9d&dates=666666&sideNums=333333" />
-  <img alt="GitHub Streak" src="https://streak-stats.demolab.com?user=Pratyusha108&hide_border=true&background=0D1117&ring=ff6b9d&fire=ff6b9d&currStreakLabel=c084fc&sideLabels=ffffff&currStreakNum=ff6b9d&dates=888888&sideNums=ffffff" width="49%" />
-</picture>
-</p>
+<div align="center">
+  <a href="https://github.com/Pratyusha108">
+    <picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Pratyusha108&show_icons=true&hide_border=true&count_private=true&bg_color=0d1117&icon_color=ff6b9d&title_color=c084fc&text_color=ffffff&ring_color=ff6b9d&cache_seconds=86400" /><source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Pratyusha108&show_icons=true&hide_border=true&count_private=true&bg_color=ffffff&icon_color=ff6b9d&title_color=8b5cf6&text_color=333333&ring_color=ff6b9d&cache_seconds=86400" /><img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Pratyusha108&show_icons=true&hide_border=true&count_private=true&bg_color=0d1117&icon_color=ff6b9d&title_color=c084fc&text_color=ffffff&ring_color=ff6b9d&cache_seconds=86400" width="49%" /></picture>
+  </a>
+  <a href="https://github.com/Pratyusha108">
+    <picture><source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Pratyusha108&hide_border=true&background=0D1117&ring=ff6b9d&fire=ff6b9d&currStreakLabel=c084fc&sideLabels=ffffff&currStreakNum=ff6b9d&dates=888888&sideNums=ffffff" /><source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=Pratyusha108&hide_border=true&background=ffffff&ring=ff6b9d&fire=ff6b9d&currStreakLabel=8b5cf6&sideLabels=333333&currStreakNum=ff6b9d&dates=666666&sideNums=333333" /><img alt="GitHub Streak" src="https://streak-stats.demolab.com?user=Pratyusha108&hide_border=true&background=0D1117&ring=ff6b9d&fire=ff6b9d&currStreakLabel=c084fc&sideLabels=ffffff&currStreakNum=ff6b9d&dates=888888&sideNums=ffffff" width="49%" /></picture>
+  </a>
+</div>
 
 <br>
 
-<p align="center">
-  <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Pratyusha108&layout=compact&hide_border=true&bg_color=0d1117&title_color=c084fc&text_color=ffffff&langs_count=8&cache_seconds=86400" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Pratyusha108&layout=compact&hide_border=true&bg_color=ffffff&title_color=8b5cf6&text_color=333333&langs_count=8&cache_seconds=86400" />
-  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pratyusha108&layout=compact&hide_border=true&bg_color=0d1117&title_color=c084fc&text_color=ffffff&langs_count=8&cache_seconds=86400" width="35%" />
-</picture>
-</p>
+<div align="center">
+  <a href="https://github.com/Pratyusha108">
+    <picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Pratyusha108&layout=compact&hide_border=true&bg_color=0d1117&title_color=c084fc&text_color=ffffff&langs_count=8&cache_seconds=86400" /><source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Pratyusha108&layout=compact&hide_border=true&bg_color=ffffff&title_color=8b5cf6&text_color=333333&langs_count=8&cache_seconds=86400" /><img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pratyusha108&layout=compact&hide_border=true&bg_color=0d1117&title_color=c084fc&text_color=ffffff&langs_count=8&cache_seconds=86400" width="35%" /></picture>
+  </a>
+</div>
 
 ---
 
