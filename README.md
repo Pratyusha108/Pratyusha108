@@ -132,20 +132,16 @@ Full-stack portfolio with AI chatbot, blog system, and real-time visitor analyti
 <h3 align="center">GitHub Analytics</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Pratyusha108&show_icons=true&hide_border=true&count_private=true&bg_color=0d1117&icon_color=ff6b9d&title_color=c084fc&text_color=ffffff&ring_color=ff6b9d&cache_seconds=86400#gh-dark-mode-only" width="49%" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=Pratyusha108&show_icons=true&hide_border=true&count_private=true&bg_color=ffffff&icon_color=ff6b9d&title_color=8b5cf6&text_color=333333&ring_color=ff6b9d&cache_seconds=86400#gh-light-mode-only" width="49%" alt="GitHub Stats"/>
-  <img src="https://streak-stats.demolab.com?user=Pratyusha108&hide_border=true&background=0D1117&ring=ff6b9d&fire=ff6b9d&currStreakLabel=c084fc&sideLabels=ffffff&currStreakNum=ff6b9d&dates=888888&sideNums=ffffff#gh-dark-mode-only" width="49%" alt="GitHub Streak"/>
-  <img src="https://streak-stats.demolab.com?user=Pratyusha108&hide_border=true&background=ffffff&ring=ff6b9d&fire=ff6b9d&currStreakLabel=8b5cf6&sideLabels=333333&currStreakNum=ff6b9d&dates=666666&sideNums=333333#gh-light-mode-only" width="49%" alt="GitHub Streak"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Pratyusha108&show_icons=true&hide_border=true&count_private=true&bg_color=0d1117&icon_color=ff6b9d&title_color=c084fc&text_color=ffffff&ring_color=ff6b9d&cache_seconds=86400" alt="GitHub Stats" />
+  <img width="49%" src="https://streak-stats.demolab.com?user=Pratyusha108&hide_border=true&background=0D1117&ring=ff6b9d&fire=ff6b9d&currStreakLabel=c084fc&sideLabels=ffffff&currStreakNum=ff6b9d&dates=888888&sideNums=ffffff" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pratyusha108&layout=compact&hide_border=true&bg_color=0d1117&title_color=c084fc&text_color=ffffff&langs_count=8&cache_seconds=86400#gh-dark-mode-only" width="35%" alt="Top Languages"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pratyusha108&layout=compact&hide_border=true&bg_color=ffffff&title_color=8b5cf6&text_color=333333&langs_count=8&cache_seconds=86400#gh-light-mode-only" width="35%" alt="Top Languages"/>
+  <img width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pratyusha108&layout=compact&hide_border=true&bg_color=0d1117&title_color=c084fc&text_color=ffffff&langs_count=8&cache_seconds=86400" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pratyusha108&bg_color=0d1117&color=ff6b9d&line=c084fc&point=ffffff&area=true&area_color=c084fc&hide_border=true#gh-dark-mode-only" width="100%" alt="Activity Graph"/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pratyusha108&bg_color=ffffff&color=333333&line=8b5cf6&point=ff6b9d&area=true&area_color=c084fc&hide_border=true#gh-light-mode-only" width="100%" alt="Activity Graph"/>
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Pratyusha108&bg_color=0d1117&color=ff6b9d&line=c084fc&point=ffffff&area=true&area_color=c084fc&hide_border=true" alt="Activity Graph" />
 </p>
 
 ---
