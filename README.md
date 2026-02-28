@@ -1,4 +1,8 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:1a1b27,60:ff6b9d,100:c084fc&height=220&section=header&text=Sai%20Pratyusha%20Gorapalli&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=Data%20Scientist%20%E2%97%86%20ML%20Engineer%20%E2%97%86%20Full-Stack%20Builder&descSize=17&descAlignY=52" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:1a1b27,60:ff6b9d,100:c084fc&height=230&section=header&text=Sai%20Pratyusha%20Gorapalli&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Data%20Scientist%20%E2%97%86%20ML%20Engineer%20%E2%97%86%20Full-Stack%20Builder&descSize=17&descAlignY=55" />
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:2d1b69,30:6c3fa0,60:ff6b9d,100:c084fc&height=230&section=header&text=Sai%20Pratyusha%20Gorapalli&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Data%20Scientist%20%E2%97%86%20ML%20Engineer%20%E2%97%86%20Full-Stack%20Builder&descSize=17&descAlignY=55" />
+  <img alt="header" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:1a1b27,60:ff6b9d,100:c084fc&height=230&section=header&text=Sai%20Pratyusha%20Gorapalli&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Data%20Scientist%20%E2%97%86%20ML%20Engineer%20%E2%97%86%20Full-Stack%20Builder&descSize=17&descAlignY=55" width="100%" />
+</picture>
 
 <p align="center">
   <a href="https://pratyusha108.github.io"><img src="https://img.shields.io/badge/Portfolio-ff6b9d?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>&nbsp;
@@ -32,7 +36,11 @@ class Pratyusha:
 <h3 align="center">Tech Stack</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,r,tensorflow,pytorch,azure,docker,react,nodejs,git,github,vscode,linux&perline=6" />
+  <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=py,r,tensorflow,pytorch,azure,docker,react,nodejs,git,github,vscode,linux&perline=6&theme=dark" />
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=py,r,tensorflow,pytorch,azure,docker,react,nodejs,git,github,vscode,linux&perline=6&theme=light" />
+  <img alt="Tech Stack" src="https://skillicons.dev/icons?i=py,r,tensorflow,pytorch,azure,docker,react,nodejs,git,github,vscode,linux&perline=6&theme=dark" width="100%" />
+</picture>
 </p>
 
 <details>
@@ -122,46 +130,46 @@ Full-stack portfolio with AI chatbot, blog system, and real-time visitor analyti
 
 <h3 align="center">GitHub Analytics</h3>
 
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Pratyusha108&show_icons=true&hide_border=true&count_private=true&bg_color=0d1117&icon_color=ff6b9d&title_color=c084fc&text_color=ffffff&ring_color=ff6b9d" />
-  <img width="49%" src="https://streak-stats.demolab.com?user=Pratyusha108&hide_border=true&background=0D1117&ring=ff6b9d&fire=ff6b9d&currStreakLabel=c084fc&sideLabels=ffffff&currStreakNum=ff6b9d&dates=888888" />
-</div>
+<p align="center">
+  <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Pratyusha108&show_icons=true&hide_border=true&count_private=true&bg_color=0d1117&icon_color=ff6b9d&title_color=c084fc&text_color=ffffff&ring_color=ff6b9d&cache_seconds=86400" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Pratyusha108&show_icons=true&hide_border=true&count_private=true&bg_color=ffffff&icon_color=ff6b9d&title_color=8b5cf6&text_color=333333&ring_color=ff6b9d&cache_seconds=86400" />
+  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Pratyusha108&show_icons=true&hide_border=true&count_private=true&bg_color=0d1117&icon_color=ff6b9d&title_color=c084fc&text_color=ffffff&ring_color=ff6b9d&cache_seconds=86400" width="49%" />
+</picture>
+  <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Pratyusha108&hide_border=true&background=0D1117&ring=ff6b9d&fire=ff6b9d&currStreakLabel=c084fc&sideLabels=ffffff&currStreakNum=ff6b9d&dates=888888&sideNums=ffffff" />
+  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=Pratyusha108&hide_border=true&background=ffffff&ring=ff6b9d&fire=ff6b9d&currStreakLabel=8b5cf6&sideLabels=333333&currStreakNum=ff6b9d&dates=666666&sideNums=333333" />
+  <img alt="GitHub Streak" src="https://streak-stats.demolab.com?user=Pratyusha108&hide_border=true&background=0D1117&ring=ff6b9d&fire=ff6b9d&currStreakLabel=c084fc&sideLabels=ffffff&currStreakNum=ff6b9d&dates=888888&sideNums=ffffff" width="49%" />
+</picture>
+</p>
 
 <br>
 
-<div align="center">
-  <img width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pratyusha108&layout=compact&hide_border=true&bg_color=0d1117&title_color=c084fc&text_color=ffffff&langs_count=8" />
-</div>
-
----
-
-<h3 align="center">Trophies</h3>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Pratyusha108&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=10" />
-</p>
-
----
-
-<h3 align="center">Contribution Snake</h3>
-
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Pratyusha108/Pratyusha108/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Pratyusha108/Pratyusha108/output/github-snake.svg" />
-    <img alt="contribution snake animation" src="https://raw.githubusercontent.com/Pratyusha108/Pratyusha108/output/github-snake.svg" width="100%" />
-  </picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Pratyusha108&layout=compact&hide_border=true&bg_color=0d1117&title_color=c084fc&text_color=ffffff&langs_count=8&cache_seconds=86400" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Pratyusha108&layout=compact&hide_border=true&bg_color=ffffff&title_color=8b5cf6&text_color=333333&langs_count=8&cache_seconds=86400" />
+  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pratyusha108&layout=compact&hide_border=true&bg_color=0d1117&title_color=c084fc&text_color=ffffff&langs_count=8&cache_seconds=86400" width="35%" />
+</picture>
 </p>
 
 ---
 
 <h3 align="center">Activity Graph</h3>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Pratyusha108&bg_color=0d1117&color=ff6b9d&line=c084fc&point=ffffff&area=true&area_color=c084fc&hide_border=true" width="100%" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Pratyusha108&bg_color=0d1117&color=ff6b9d&line=c084fc&point=ffffff&area=true&area_color=c084fc&hide_border=true" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Pratyusha108&bg_color=ffffff&color=333333&line=8b5cf6&point=ff6b9d&area=true&area_color=c084fc&hide_border=true" />
+  <img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Pratyusha108&bg_color=0d1117&color=ff6b9d&line=c084fc&point=ffffff&area=true&area_color=c084fc&hide_border=true" width="100%" />
+</picture>
 
 ---
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:c084fc,50:ff6b9d,100:0d1117&height=120&section=footer" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:c084fc,50:ff6b9d,100:0d1117&height=120&section=footer" />
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:c084fc,50:ff6b9d,100:2d1b69&height=120&section=footer" />
+  <img alt="footer" src="https://capsule-render.vercel.app/api?type=waving&color=0:c084fc,50:ff6b9d,100:0d1117&height=120&section=footer" width="100%" />
+</picture>
 
 <p align="center">
   <sub><i>"If you have never failed, you have never tried something new."</i></sub>
