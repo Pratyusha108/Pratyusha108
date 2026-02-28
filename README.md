@@ -131,10 +131,12 @@ Full-stack portfolio with AI chatbot, blog system, and real-time visitor analyti
 
 <h3 align="center">GitHub Analytics</h3>
 
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Pratyusha108&show_icons=true&hide_border=true&count_private=true&bg_color=0d1117&icon_color=ff6b9d&title_color=c084fc&text_color=ffffff&ring_color=ff6b9d&cache_seconds=86400" alt="GitHub Stats" />
-  <img width="49%" src="https://streak-stats.demolab.com?user=Pratyusha108&hide_border=true&background=0D1117&ring=ff6b9d&fire=ff6b9d&currStreakLabel=c084fc&sideLabels=ffffff&currStreakNum=ff6b9d&dates=888888&sideNums=ffffff" alt="GitHub Streak" />
-</p>
+<table align="center" border="0" cellpadding="0" cellspacing="0">
+<tr>
+<td width="50%" align="center"><img src="https://github-readme-stats.vercel.app/api?username=Pratyusha108&show_icons=true&hide_border=true&count_private=true&bg_color=0d1117&icon_color=ff6b9d&title_color=c084fc&text_color=ffffff&ring_color=ff6b9d&cache_seconds=86400" alt="GitHub Stats" /></td>
+<td width="50%" align="center"><img src="https://streak-stats.demolab.com?user=Pratyusha108&hide_border=true&background=0D1117&ring=ff6b9d&fire=ff6b9d&currStreakLabel=c084fc&sideLabels=ffffff&currStreakNum=ff6b9d&dates=888888&sideNums=ffffff" alt="GitHub Streak" /></td>
+</tr>
+</table>
 
 <p align="center">
   <img width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pratyusha108&layout=compact&hide_border=true&bg_color=0d1117&title_color=c084fc&text_color=ffffff&langs_count=8&cache_seconds=86400" alt="Top Languages" />
