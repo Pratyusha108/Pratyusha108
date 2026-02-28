@@ -1,187 +1,168 @@
-<!-- =========================  HERO / INTRO  ========================= -->
-
-<h1 align="center">Sai Pratyusha Gorapalli</h1>
-<h3 align="center">Full-Stack Azure Data Scientist in Progress • Data Analytics • Storytelling with Impact</h3>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:1a1b27,60:ff6b9d,100:c084fc&height=220&section=header&text=Sai%20Pratyusha%20Gorapalli&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=Data%20Scientist%20%E2%97%86%20ML%20Engineer%20%E2%97%86%20Full-Stack%20Builder&descSize=17&descAlignY=52" />
 
 <p align="center">
-  <a href="mailto:saipratyushagorapalli333@gmail.com"><img src="https://img.shields.io/badge/Email-saipratyushagorapalli333%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/pratyusha-g-a92915229/"><img src="https://img.shields.io/badge/LinkedIn-Pratyusha_G-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/Pratyusha108"><img src="https://img.shields.io/badge/GitHub-Pratyusha108-111?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://pratyusha108.github.io"><img src="https://img.shields.io/badge/Portfolio-ff6b9d?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>&nbsp;
+  <a href="https://www.linkedin.com/in/pratyusha-g-a92915229/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;
+  <a href="mailto:saipratyushagorapalli333@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;
+  <a href="https://www.kaggle.com/saipratyushagorapalli"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" /></a>&nbsp;
+  <img src="https://komarev.com/ghpvc/?username=Pratyusha108&style=for-the-badge&color=c084fc&label=PROFILE+VIEWS" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=900&color=FF4F8B&center=true&vCenter=true&width=900&lines=Master%E2%80%99s+in+Data+Analytics+%40+Webster+University;Full-Stack+Azure+Data+Scientist+%E2%80%94+in+progress;Time+Series+%7C+Predictive+Analytics+%7C+ML+%7C+EDA+%7C+Dashboards;Python+%7C+R+%7C+SQL+%7C+Power+BI+%7C+Azure+%7C+MLOps+Mindset;Turning+raw+data+into+decisions+that+move+the+world" alt="Typing SVG" />
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=130&color=0:141414,50:FF4F8B,100:0A66C2&section=header&reversal=false&text=&fontSize=0" />
-</p>
-
-<!-- =========================  ABOUT  ========================= -->
-
-## 👩‍💻 About Me
-
-> **I don’t just analyze data — I question it, explore it, and translate it into decisions people can act on.**  
-> I’m building a strong profile in **Data Analytics + Data Science + Data Engineering**, with a focus on **Azure**, research-grade rigor, and clean storytelling.
-
-- 🎓 **M.S. Data Analytics** — Webster University (St. Louis, USA)  
-- 🎓 Background: **MBA (Technology Management)** + **B.E. (Electrical & Electronics Engineering)**  
-- 🧠 Mindset: **curiosity → experimentation → insight → impact**  
-- 🌍 Long-term mission: build a research-strong profile for **O-1 / EB-1** (papers, citations, real contributions)
-
----
-
-<!-- =========================  VALUE / SPECIALTIES  ========================= -->
-
-## 🧭 What I’m Great At (My Core Strengths)
-
-✅ **Analytical thinking & unconventional questioning** (I love “why?” more than “what”)  
-✅ **Exploratory Data Analysis (EDA)** that actually drives modeling decisions  
-✅ **Predictive Modeling** (classification, regression, ensemble approaches)  
-✅ **Time Series Analytics** (patterns, stationarity, residual diagnosis, forecasting)  
-✅ **Data Storytelling** (turning numbers into clear business narratives)  
-✅ **Dashboards** that communicate trends, risk, and opportunity instantly  
-✅ **Research-style work ethic** (structured methodology, documentation, reproducibility)  
-✅ **Full-stack builder mindset** (I build products — not only notebooks)
-
----
-
-<!-- =========================  TECH STACK  ========================= -->
-
-## 🧰 Tech Toolbox (A → Z)
-
-### 👑 Core Languages & Analytics
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
-
-### 📊 BI, Dashboards & Visualization
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=000)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
-
-### 🤖 Machine Learning & Statistical Modeling
-![Scikit Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
-![Stats](https://img.shields.io/badge/Statistics-%23007ACC?style=flat&logo=databricks&logoColor=white)
-![Time Series](https://img.shields.io/badge/Time%20Series-111?style=flat&logo=clockify&logoColor=white)
-
-### ☁️ Cloud & Data Platforms (Azure)
-![Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
-
-### 🧱 Data Engineering Foundations
-![ETL](https://img.shields.io/badge/ETL%20Pipelines-111?style=flat&logo=apacheairflow&logoColor=white)
-![Data Modeling](https://img.shields.io/badge/Data%20Modeling-3C3C3C?style=flat&logo=databricks&logoColor=white)
-
-### 🌐 Full-Stack / App Development
-![React Native](https://img.shields.io/badge/React%20Native-61DAFB?style=flat&logo=react&logoColor=000)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
-
-### 🔧 Tools & Workflow
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-111?style=flat&logo=github&logoColor=white)
-
-### 🔐 Security / IoT Internship (IBM Collaboration)
-- RFID-based security system (Embedded + IoT)  
-- Analytics + scripting (R Studio + Python)  
-- Practical build mindset + end-to-end delivery
-
----
-
-<!-- =========================  FEATURED PROJECTS  ========================= -->
-
-## 🚀 Featured Work (Projects That Prove Skill)
-
-> I focus on projects that have **clear business value**, strong methodology, and crisp storytelling.
-
-### 🔮 DJIA Time Series Forecasting (R)
-**Highlights**
-- Forecasted Dow Jones for 3 months using time series workflow  
-- Tested patterns (trend/seasonality), stationarity, residual diagnostics  
-- Built interpretable forecasting outputs & evaluation
-
-🔗 Repo: https://github.com/Pratyusha108  <!-- replace with your exact repo link -->
-
----
-
-### ⏱️ Routine Productivity Tracker (Full-Stack + Analytics)
-**Highlights**
-- Built a routine tracking app (React Native + Node + SQLite)  
-- Logs completion history for long-term behavior analytics  
-- Export-ready data for dashboards and future EDA  
-- Designed with a “data product” mindset: tracking → storage → analysis → insight
-
-🔗 Repo: https://github.com/Pratyusha108  <!-- replace with your exact repo link -->
-
----
-
-### 📱 Practicum Analytics Portfolio (3 Business Contexts)
-**What I practice deeply**
-- Smartphone resale price prediction (regression workflow)
-- Mailing list response & tiering (classification + segmentation)
-- Mortgage payback forecasting (predictive + business risk framing)
-
-✅ Strong emphasis on EDA, modeling comparison, and decision-ready outputs.
-
----
-
-<!-- =========================  NOW / NEXT  ========================= -->
-
-## 🌱 Currently Exploring (Deep Focus)
-
-- ⏳ **Time Series**: forecasting, validation strategy, real-world anomaly thinking  
-- 🧠 **Deep Learning**: foundations + practical use-cases  
-- 🧪 **Advanced EDA**: feature engineering, leakage prevention, robust evaluation  
-- ⚖️ **Data Ethics & Responsible AI**: governance + risk thinking  
-- ☁️ **Azure Path**: building credibility with cloud-ready pipelines and MLOps mindset
-
----
-
-<!-- =========================  PROFESSIONAL TRAITS  ========================= -->
-
-## 🧠 Professional Traits (What Teams Get With Me)
-
-- 🧾 Clean documentation & reproducible workflows  
-- 🧠 Strong reasoning + structured problem solving  
-- 🧩 I connect the dots across **business + model + data constraints**  
-- 🔍 Detail-oriented without losing the big picture  
-- 🎯 Consistent improvement mindset — I iterate until it’s excellent
-
----
-
-<!-- =========================  STATS + ACTIVITY  ========================= -->
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pratyusha108&theme=default" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Pratyusha108&show_icons=true&hide=issues&count_private=true" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pratyusha108&layout=compact" alt="Top Languages" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FF6B9D&center=true&vCenter=true&repeat=true&width=620&lines=Turning+Raw+Data+Into+Decisions+That+Matter;Python+%7C+R+%7C+SQL+%7C+Azure+%7C+Power+BI;Building+AI+Agents+%26+Research-Grade+Analytics;Full-Stack+Azure+Data+Scientist" />
 </p>
 
 ---
 
-<!-- =========================  CONTACT  ========================= -->
-
-## 🌐 Connect With Me
-
-📫 **Email:** saipratyushagorapalli333@gmail.com  
-🔗 **LinkedIn:** https://www.linkedin.com/in/pratyusha-g-a92915229/  
-💻 **GitHub:** https://github.com/Pratyusha108  
-📊 **Kaggle:** Coming soon (I’m diving deep into challenges)
+```python
+class Pratyusha:
+    role      = "Data Scientist & ML Engineer"
+    education = ["M.S. Data Analytics - Webster University",
+                 "MBA - Technology Management",
+                 "B.E. - Electrical & Electronics"]
+    focus     = ["Predictive Analytics", "Time Series", "AI Agents",
+                 "Azure MLOps", "Data Storytelling"]
+    strengths = ["Question everything", "EDA-first methodology",
+                 "Research-grade rigor", "Ship real products"]
+    fun_fact  = "I build AI agents that do in minutes what takes hours manually"
+```
 
 ---
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=130&color=0:0A66C2,50:FF4F8B,100:141414&section=footer&reversal=false&text=&fontSize=0" />
-</p>
+<h3 align="center">Tech Stack</h3>
 
 <p align="center">
-  <sub>“If you have never failed, you have never tried something new.”</sub>
+  <img src="https://skillicons.dev/icons?i=python,r,tensorflow,pytorch,azure,docker,react,nodejs,git,github,vscode,linux&perline=6" />
+</p>
+
+<details>
+<summary align="center"><kbd> Expand Full Stack </kbd></summary>
+<br>
+
+| Category | Technologies |
+|:--------:|:------------|
+| **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
+| **ML / DS** | ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white) |
+| **BI & Viz** | ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black) ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white) ![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white) |
+| **Cloud** | ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) |
+| **Web** | ![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) |
+
+</details>
+
+---
+
+<h3 align="center">Featured Projects</h3>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<h4><a href="https://github.com/Pratyusha108/nervix">Nervix - Autonomous Data Intelligence</a></h4>
+
+Drop any dataset, get executive-ready insights in minutes. Autonomous analysis powered by Claude + LangGraph.
+
+`Python` `LangGraph` `Claude API`
+
+</td>
+<td width="50%" valign="top">
+
+<h4><a href="https://github.com/Pratyusha108/nexus">Nexus - Local AI Research Agent</a></h4>
+
+35+ commands, 8 expert personas, 7-phase research pipeline. Commercial-grade AI research at zero API cost.
+
+`Python` `AI Agents` `NLP`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<h4><a href="https://github.com/Pratyusha108/rag0">RAG0 - Browser Search Engine</a></h4>
+
+Retrieve. Answer. Go. Full search engine running entirely in the browser. No API keys, no server.
+
+`JavaScript` `RAG` `Vector Search`
+
+</td>
+<td width="50%" valign="top">
+
+<h4><a href="https://github.com/Pratyusha108/TIME-SERIES-ANALYSIS-PROJECT">DJIA Time Series Forecasting</a></h4>
+
+3-month Dow Jones forecast with stationarity testing, trend decomposition, and residual diagnostics.
+
+`R` `ARIMA` `Time Series`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<h4><a href="https://github.com/Pratyusha108/COVID-19-MORTALITY-RATE-PREDICTION-ANALYSIS-USING-PYTHON">COVID-19 Mortality Prediction</a></h4>
+
+End-to-end ML pipeline for mortality rate prediction with comprehensive EDA and model benchmarking.
+
+`Python` `scikit-learn` `EDA`
+
+</td>
+<td width="50%" valign="top">
+
+<h4><a href="https://github.com/Pratyusha108/pratyusha108.github.io">Portfolio Website</a></h4>
+
+Full-stack portfolio with AI chatbot, blog system, and real-time visitor analytics dashboard.
+
+`JavaScript` `HTML/CSS` `AI Chatbot`
+
+</td>
+</tr>
+</table>
+
+<p align="center"><a href="https://github.com/Pratyusha108?tab=repositories"><b>View All Repositories &rarr;</b></a></p>
+
+---
+
+<h3 align="center">GitHub Analytics</h3>
+
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Pratyusha108&show_icons=true&hide_border=true&count_private=true&bg_color=0d1117&icon_color=ff6b9d&title_color=c084fc&text_color=ffffff&ring_color=ff6b9d" />
+  <img width="49%" src="https://streak-stats.demolab.com?user=Pratyusha108&hide_border=true&background=0D1117&ring=ff6b9d&fire=ff6b9d&currStreakLabel=c084fc&sideLabels=ffffff&currStreakNum=ff6b9d&dates=888888" />
+</div>
+
+<br>
+
+<div align="center">
+  <img width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pratyusha108&layout=compact&hide_border=true&bg_color=0d1117&title_color=c084fc&text_color=ffffff&langs_count=8" />
+</div>
+
+---
+
+<h3 align="center">Trophies</h3>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Pratyusha108&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=10" />
+</p>
+
+---
+
+<h3 align="center">Contribution Snake</h3>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Pratyusha108/Pratyusha108/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Pratyusha108/Pratyusha108/output/github-snake.svg" />
+    <img alt="contribution snake animation" src="https://raw.githubusercontent.com/Pratyusha108/Pratyusha108/output/github-snake.svg" width="100%" />
+  </picture>
+</p>
+
+---
+
+<h3 align="center">Activity Graph</h3>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Pratyusha108&bg_color=0d1117&color=ff6b9d&line=c084fc&point=ffffff&area=true&area_color=c084fc&hide_border=true" width="100%" />
+
+---
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:c084fc,50:ff6b9d,100:0d1117&height=120&section=footer" />
+
+<p align="center">
+  <sub><i>"If you have never failed, you have never tried something new."</i></sub>
 </p>
