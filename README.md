@@ -1,8 +1,11 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:1a1b27,60:ff6b9d,100:c084fc&height=230&section=header&text=Sai%20Pratyusha%20Gorapalli&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=Data%20Scientist%20%E2%97%86%20ML%20Engineer%20%E2%97%86%20Full-Stack%20Builder&descSize=17&descAlignY=55" />
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:2d1b69,30:6c3fa0,60:ff6b9d,100:c084fc&height=230&section=header&text=Sai%20Pratyusha%20Gorapalli&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=Data%20Scientist%20%E2%97%86%20ML%20Engineer%20%E2%97%86%20Full-Stack%20Builder&descSize=17&descAlignY=55" />
-  <img alt="header" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:1a1b27,60:ff6b9d,100:c084fc&height=230&section=header&text=Sai%20Pratyusha%20Gorapalli&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=Data%20Scientist%20%E2%97%86%20ML%20Engineer%20%E2%97%86%20Full-Stack%20Builder&descSize=17&descAlignY=55" width="100%" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:1a1b27,60:ff6b9d,100:c084fc&height=180&section=header&fontSize=0" />
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:2d1b69,30:6c3fa0,60:ff6b9d,100:c084fc&height=180&section=header&fontSize=0" />
+  <img alt="header" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:1a1b27,60:ff6b9d,100:c084fc&height=180&section=header&fontSize=0" width="100%" />
 </picture>
+
+<h1 align="center">Sai Pratyusha Gorapalli</h1>
+<h3 align="center">Data Scientist | AI Engineer | ML Engineer | Full-Stack Builder</h3>
 
 <p align="center">
   <a href="https://pratyusha108.github.io"><img src="https://img.shields.io/badge/Portfolio-ff6b9d?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>&nbsp;
@@ -13,22 +16,23 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FF6B9D&center=true&vCenter=true&repeat=true&width=620&lines=Turning+Raw+Data+Into+Decisions+That+Matter;Python+%7C+R+%7C+SQL+%7C+Azure+%7C+Power+BI;Building+AI+Agents+%26+Research-Grade+Analytics;Full-Stack+Azure+Data+Scientist" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FF6B9D&center=true&vCenter=true&repeat=true&width=650&lines=Turning+Raw+Data+Into+Decisions+That+Matter;AI+Agents+%7C+LLMs+%7C+RAG+%7C+MLOps+%7C+Azure;Python+%7C+R+%7C+SQL+%7C+PyTorch+%7C+Power+BI;Building+Intelligent+Systems+End+to+End" />
 </p>
 
 ---
 
 ```python
 class Pratyusha:
-    role      = "Data Scientist & ML Engineer"
+    role      = "Data Scientist | AI Engineer | ML Engineer"
     education = ["M.S. Data Analytics - Webster University",
                  "MBA - Technology Management",
                  "B.E. - Electrical & Electronics"]
-    focus     = ["Predictive Analytics", "Time Series", "AI Agents",
-                 "Azure MLOps", "Data Storytelling"]
+    focus     = ["AI Agents & LLM Engineering", "Predictive Analytics",
+                 "Time Series Forecasting", "Azure MLOps",
+                 "NLP & Transformers", "Data Storytelling"]
     strengths = ["Question everything", "EDA-first methodology",
                  "Research-grade rigor", "Ship real products"]
-    fun_fact  = "I build AI agents that do in minutes what takes hours manually"
+    building  = "AI agents that do in minutes what takes hours manually"
 ```
 
 ---
@@ -37,9 +41,9 @@ class Pratyusha:
 
 <p align="center">
   <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=py,r,tensorflow,pytorch,azure,docker,react,nodejs,git,github,vscode,linux&perline=6&theme=dark" />
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=py,r,tensorflow,pytorch,azure,docker,react,nodejs,git,github,vscode,linux&perline=6&theme=light" />
-  <img alt="Tech Stack" src="https://skillicons.dev/icons?i=py,r,tensorflow,pytorch,azure,docker,react,nodejs,git,github,vscode,linux&perline=6&theme=dark" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=py,r,java,cpp,tensorflow,pytorch,azure,docker,postgres,mysql,react,nodejs,git,github,vscode,linux&perline=8&theme=dark" />
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=py,r,java,cpp,tensorflow,pytorch,azure,docker,postgres,mysql,react,nodejs,git,github,vscode,linux&perline=8&theme=light" />
+  <img alt="Tech Stack" src="https://skillicons.dev/icons?i=py,r,java,cpp,tensorflow,pytorch,azure,docker,postgres,mysql,react,nodejs,git,github,vscode,linux&perline=8&theme=dark" />
 </picture>
 </p>
 
@@ -49,11 +53,14 @@ class Pratyusha:
 
 | Category | Technologies |
 |:--------:|:------------|
-| **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
-| **ML / DS** | ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white) |
-| **BI & Viz** | ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black) ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white) ![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white) |
-| **Cloud** | ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) |
-| **Web** | ![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) |
+| **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
+| **AI & LLM Engineering** | ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white) ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white) ![RAG](https://img.shields.io/badge/RAG-FF6F00?style=flat-square&logo=elastic&logoColor=white) ![AI Agents](https://img.shields.io/badge/AI_Agents-412991?style=flat-square&logo=openai&logoColor=white) ![Prompt Engineering](https://img.shields.io/badge/Prompt_Eng-74aa9c?style=flat-square&logo=openai&logoColor=white) ![Embeddings](https://img.shields.io/badge/Embeddings-FF4F8B?style=flat-square&logo=opensearch&logoColor=white) ![Vector Search](https://img.shields.io/badge/Vector_Search-4285F4?style=flat-square&logo=google&logoColor=white) |
+| **Deep Learning & NLP** | ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![Transformers](https://img.shields.io/badge/Transformers-FFD21E?style=flat-square&logo=huggingface&logoColor=black) ![BERT](https://img.shields.io/badge/BERT-4285F4?style=flat-square&logo=google&logoColor=white) ![NLP](https://img.shields.io/badge/NLP-5A45FF?style=flat-square&logo=spacy&logoColor=white) ![Transfer Learning](https://img.shields.io/badge/Transfer_Learning-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) |
+| **ML & Statistics** | ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white) ![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=flat-square&logo=scipy&logoColor=white) ![Time Series](https://img.shields.io/badge/Time_Series-111?style=flat-square&logo=clockify&logoColor=white) ![Feature Eng](https://img.shields.io/badge/Feature_Eng-FF6F00?style=flat-square&logo=databricks&logoColor=white) |
+| **Cloud & MLOps** | ![Azure ML](https://img.shields.io/badge/Azure_ML-0078D4?style=flat-square&logo=microsoftazure&logoColor=white) ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white) ![Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white) ![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=flat-square&logo=githubactions&logoColor=white) |
+| **BI & Visualization** | ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black) ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white) ![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white) ![Fabric](https://img.shields.io/badge/MS_Fabric-742774?style=flat-square&logo=microsoft&logoColor=white) |
+| **Databases** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![Azure SQL](https://img.shields.io/badge/Azure_SQL-0078D4?style=flat-square&logo=microsoftazure&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white) |
+| **Web & APIs** | ![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![REST APIs](https://img.shields.io/badge/REST_APIs-009688?style=flat-square&logo=fastapi&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) |
 
 </details>
 
@@ -87,7 +94,7 @@ Drop any dataset, get executive-ready insights in minutes. Autonomous analysis p
 
 <h4><a href="https://github.com/Pratyusha108/rag0">RAG0 - Browser Search Engine</a></h4>
 
-Retrieve. Answer. Go. Full search engine running entirely in the browser. No API keys, no server.
+Retrieve. Answer. Go. Full RAG search engine running entirely in the browser. No API keys, no server.
 
 `JavaScript` `RAG` `Vector Search`
 
@@ -96,7 +103,7 @@ Retrieve. Answer. Go. Full search engine running entirely in the browser. No API
 
 <h4><a href="https://github.com/Pratyusha108/TIME-SERIES-ANALYSIS-PROJECT">DJIA Time Series Forecasting</a></h4>
 
-3-month Dow Jones forecast with stationarity testing, trend decomposition, and residual diagnostics.
+3-month Dow Jones forecast with ARIMA/ETS, stationarity testing, and residual diagnostics.
 
 `R` `ARIMA` `Time Series`
 
@@ -151,18 +158,20 @@ Full-stack portfolio with AI chatbot, blog system, and real-time visitor analyti
 
 <h3 align="center">Activity Graph</h3>
 
-<picture>
+<a href="https://github.com/Pratyusha108">
+  <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Pratyusha108&bg_color=0d1117&color=ff6b9d&line=c084fc&point=ffffff&area=true&area_color=c084fc&hide_border=true" />
   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Pratyusha108&bg_color=ffffff&color=333333&line=8b5cf6&point=ff6b9d&area=true&area_color=c084fc&hide_border=true" />
   <img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Pratyusha108&bg_color=0d1117&color=ff6b9d&line=c084fc&point=ffffff&area=true&area_color=c084fc&hide_border=true" width="100%" />
 </picture>
+</a>
 
 ---
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:c084fc,50:ff6b9d,100:0d1117&height=120&section=footer" />
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:c084fc,50:ff6b9d,100:2d1b69&height=120&section=footer" />
-  <img alt="footer" src="https://capsule-render.vercel.app/api?type=waving&color=0:c084fc,50:ff6b9d,100:0d1117&height=120&section=footer" width="100%" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:c084fc,50:ff6b9d,100:0d1117&height=120&section=footer&fontSize=0" />
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:c084fc,50:ff6b9d,100:2d1b69&height=120&section=footer&fontSize=0" />
+  <img alt="footer" src="https://capsule-render.vercel.app/api?type=waving&color=0:c084fc,50:ff6b9d,100:0d1117&height=120&section=footer&fontSize=0" width="100%" />
 </picture>
 
 <p align="center">
