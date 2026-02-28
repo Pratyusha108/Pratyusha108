@@ -1,11 +1,8 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:1a1b27,60:ff6b9d,100:c084fc&height=180&section=header&fontSize=0" />
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:2d1b69,30:6c3fa0,60:ff6b9d,100:c084fc&height=180&section=header&fontSize=0" />
-  <img alt="header" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:1a1b27,60:ff6b9d,100:c084fc&height=180&section=header&fontSize=0" width="100%" />
+  <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="assets/header-light.svg" />
+  <img alt="Sai Pratyusha Gorapalli" src="assets/header-dark.svg" width="100%" />
 </picture>
-
-<h1 align="center">Sai Pratyusha Gorapalli</h1>
-<h3 align="center">Data Scientist | AI Engineer | ML Engineer | Full-Stack Builder</h3>
 
 <p align="center">
   <a href="https://pratyusha108.github.io"><img src="https://img.shields.io/badge/Portfolio-ff6b9d?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>&nbsp;
